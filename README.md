@@ -1,2 +1,1 @@
-# mllib-spark
-Spark &amp; ML Lib
+# Apache Spark & ML Lib
